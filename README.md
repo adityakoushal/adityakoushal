@@ -8,8 +8,8 @@
 
 ###
 
-<img data-importer="image" align="right" height="120" 
-src="https://i.pinimg.com/originals/9b/49/3c/9b493c874211613db1d520cafce0ee64.gif"
+<img align="right" width="250"
+src="https://i.pinimg.com/originals/9b/49/3c/9b493c874211613db1d520cafce0ee64.gif" />
 
 ###
 
